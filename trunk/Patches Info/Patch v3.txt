@@ -1,0 +1,20 @@
+Client Sided:
+
+-Add the old hairs too (???)
+-New UI (Nyaa)
+-No Accept screen when starting the game (Nyaa)
+-Make blue patcher/launcher or use the old blue one (???)
+-Effect bugs (FaDE?)
+-New Items? I am sure there are still items laying around we don't have (???)
+
+
+Server Sided:
+
+-Crafting Success rates (Nyaa or ???)
+-Player vs Player Damage needs to be lowered (Nyaa)
+-New patch download site (Nyaa > Launcher needs to be updated > ???)
+-Passwords on the rar patches (??? > Launcher needs to be updated > ???)
+
+
+OVERALL:
+-Minor bug fixes and new drops to monsters.
