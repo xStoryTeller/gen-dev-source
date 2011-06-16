@@ -5141,15 +5141,6 @@ bool CWorldServer::pakCraft( CPlayer* thisclient, CPacket* P )
 
         ADDDWORD(pak, BuildItemHead(item));
 
-         if (item.itemtype == 11)
-         {
-             ADDWORD( pak, 0x0001);// amount
-             ADDWORD( pak, 0x0000);
-         }
-         else
-         {
-             ADDDWORD(pak, BuildItemData(item));
-         }
 
         ADDDWORD( pak, 0x00000000 );
         ADDWORD ( pak, 0x0000 );

@@ -923,3 +923,305 @@
 1307872425 source:c:\documents and settings\administrator\desktop\genetic server files\world server\worldserver.cpp
 	"worldserver.h"
 
+1308251002 source:g:\gen-dev-source\server files\common\socketbase.cpp
+	"sockets.h"
+
+1308251002 g:\gen-dev-source\server files\common\sockets.h
+	<windows.h>
+	<winsock2.h>
+	<unistd.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<sys/ioctl.h>
+	<cstdarg>
+	<errno.h>
+	<mysql/mysql.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+	<cstdio>
+	<exception>
+	<time.h>
+	<assert.h>
+	<math.h>
+	<pthread.h>
+	<map>
+	<csignal>
+	"log.h"
+	"rosecrypt.hpp"
+	"config.h"
+	"database/database.h"
+
+1308251002 g:\gen-dev-source\server files\common\log.h
+
+1308251002 g:\gen-dev-source\server files\common\rosecrypt.hpp
+	<windows.h>
+
+1308251002 g:\gen-dev-source\server files\common\config.h
+
+1308251002 g:\gen-dev-source\server files\common\database\database.h
+	"../sockets.h"
+
+1308251002 source:g:\gen-dev-source\server files\common\socketclient.cpp
+	"sockets.h"
+
+1308251002 source:g:\gen-dev-source\server files\common\socketserver.cpp
+	"sockets.h"
+
+1308251002 source:g:\gen-dev-source\server files\common\config.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<ctype.h>
+
+1308251002 source:g:\gen-dev-source\server files\common\database\database.cpp
+	"database.h"
+	"../log.h"
+
+1308251002 source:g:\gen-dev-source\server files\common\log.cpp
+	<conio.h>
+	<windows.h>
+	<cstdio>
+	<cstdio>
+	<string>
+	<time.h>
+	"log.h"
+
+1308251002 source:g:\gen-dev-source\server files\common\rosecrypt.cpp
+	"rosecrypt.hpp"
+
+1308251004 source:g:\gen-dev-source\server files\world server\buff.cpp
+	"worldserver.h"
+
+1308251004 g:\gen-dev-source\server files\world server\worldserver.h
+	"datatypes.h"
+	"../common/sockets.h"
+	"worldmonster.h"
+	"worldmap.h"
+	"player.h"
+	"character.h"
+	"party.h"
+	"stbhandler.h"
+	"stlhandler.h"
+	"quest/strhashing.h"
+	"quest/CRoseArray.hpp"
+	"quest/CRoseFile.hpp"
+	"quest/CStrStb.hpp"
+	"quest/CIntStb.hpp"
+	"quest/QuestTrigger.h"
+	"ltbhandler.h"
+	"aip/Aip.h"
+
+1308251004 g:\gen-dev-source\server files\world server\datatypes.h
+	"datatypes_compat.h"
+	"../common/sockets.h"
+
+1308251004 g:\gen-dev-source\server files\world server\datatypes_compat.h
+
+1308251004 g:\gen-dev-source\server files\world server\worldmonster.h
+	"character.h"
+	"player.h"
+	"worldserver.h"
+
+1308251004 g:\gen-dev-source\server files\world server\character.h
+	"chartype.h"
+
+1308251004 g:\gen-dev-source\server files\world server\chartype.h
+	"datatypes.h"
+
+1308251004 g:\gen-dev-source\server files\world server\player.h
+	"character.h"
+
+1308251004 g:\gen-dev-source\server files\world server\worldmap.h
+	"worldserver.h"
+	"player.h"
+	"character.h"
+	"worldmonster.h"
+	"datatypes.h"
+
+1308251004 g:\gen-dev-source\server files\world server\party.h
+	"worldserver.h"
+	"datatypes.h"
+
+1308251004 g:\gen-dev-source\server files\world server\stbhandler.h
+	"worldserver.h"
+
+1308251004 g:\gen-dev-source\server files\world server\stlhandler.h
+	"worldserver.h"
+
+1308251004 g:\gen-dev-source\server files\world server\quest\strhashing.h
+
+1308251004 g:\gen-dev-source\server files\world server\quest\crosearray.hpp
+	<memory.h>
+
+1308251004 g:\gen-dev-source\server files\world server\quest\crosefile.hpp
+	<stdio.h>
+	<stdlib.h>
+	"CRoseArray.hpp"
+
+1308251004 g:\gen-dev-source\server files\world server\quest\cstrstb.hpp
+
+1308251004 g:\gen-dev-source\server files\world server\quest\cintstb.hpp
+
+1308251004 g:\gen-dev-source\server files\world server\quest\questtrigger.h
+	"QuestConditions.h"
+	"QuestActions.h"
+
+1308251004 g:\gen-dev-source\server files\world server\quest\questconditions.h
+
+1308251004 g:\gen-dev-source\server files\world server\quest\questactions.h
+
+1308251004 g:\gen-dev-source\server files\world server\ltbhandler.h
+	"worldserver.h"
+	<map>
+
+1308251003 g:\gen-dev-source\server files\world server\aip\aip.h
+	"AiConditions.h"
+	"AiActions.h"
+
+1308251003 g:\gen-dev-source\server files\world server\aip\aiconditions.h
+
+1308251003 g:\gen-dev-source\server files\world server\aip\aiactions.h
+
+1308251004 source:g:\gen-dev-source\server files\world server\mainprocess.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\monster.cpp
+	"worldmonster.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\monsterevents.cpp
+	"worldmonster.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\monsterstats.cpp
+	"worldmonster.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\party.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\serverfunctions.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\signal.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\worldmonster.cpp
+	"worldmonster.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\worldprocess.cpp
+	"worldserver.h"
+
+1308251003 source:g:\gen-dev-source\server files\world server\aip\aiactions.cpp
+	"../WorldServer.h"
+
+1308251003 source:g:\gen-dev-source\server files\world server\aip\aiconditions.cpp
+	"../WorldServer.h"
+
+1308251003 source:g:\gen-dev-source\server files\world server\aip\aip.cpp
+	"../WorldServer.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\battle.cpp
+	"character.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\character.cpp
+	"character.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\charevent.cpp
+	"character.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\charfunctions.cpp
+	"character.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\charstats.cpp
+	"character.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\clan.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\console.cpp
+	"WorldServer.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\extrafunctions.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\gmcmds.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\itemdata.cpp
+	"datatypes.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\ltbhandler.cpp
+	"ltbhandler.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\main.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\mapfunctions.cpp
+	"worldmap.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\monsterfunctions.cpp
+	"worldmonster.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\partyfunctions.cpp
+	"party.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\player.cpp
+	"player.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\playerdata.cpp
+	"player.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\playerfunctions.cpp
+	"player.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\playerquest.cpp
+	"player.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\playerstats.cpp
+	"player.h"
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\questactions.cpp
+	"../worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\questactionsc.cpp
+	"../worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\questconditions.cpp
+	"../worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\questconditionsc.cpp
+	"../worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\quests.cpp
+	"../worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\quest\strhashing.cpp
+	"../worldserver.h"
+	"strhashing.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\startup.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\stbhandler.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\stlhandler.cpp
+	"worldserver.h"
+
+1308251004 source:g:\gen-dev-source\server files\world server\worldmap.cpp
+	"worldmap.h"
+
