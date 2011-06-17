@@ -35,7 +35,7 @@
 		<Cursor position="2480" topLine="30" />
 	</File>
 	<File name="..\World Server\WorldServer.h" open="0" top="0" tabpos="3">
-		<Cursor position="11246" topLine="234" />
+		<Cursor position="35020" topLine="642" />
 	</File>
 	<File name="..\World Server\aip\AiActions.cpp" open="0" top="0" tabpos="3">
 		<Cursor position="31886" topLine="916" />
@@ -46,7 +46,7 @@
 	<File name="..\World Server\aip\Aip.cpp" open="0" top="0" tabpos="0">
 		<Cursor position="1506" topLine="39" />
 	</File>
-	<File name="..\World Server\battle.cpp" open="1" top="0" tabpos="1">
+	<File name="..\World Server\battle.cpp" open="0" top="0" tabpos="1">
 		<Cursor position="384" topLine="0" />
 	</File>
 	<File name="..\World Server\character.cpp" open="0" top="0" tabpos="0">
@@ -70,7 +70,7 @@
 	<File name="..\World Server\extrafunctions.cpp" open="0" top="0" tabpos="1">
 		<Cursor position="79546" topLine="2440" />
 	</File>
-	<File name="..\World Server\gmcmds.cpp" open="1" top="1" tabpos="2">
+	<File name="..\World Server\gmcmds.cpp" open="0" top="0" tabpos="2">
 		<Cursor position="43874" topLine="1111" />
 	</File>
 	<File name="..\World Server\main.cpp" open="0" top="0" tabpos="6">
@@ -122,7 +122,7 @@
 		<Cursor position="3775" topLine="82" />
 	</File>
 	<File name="..\World Server\worldpackets.cpp" open="0" top="0" tabpos="4">
-		<Cursor position="26832" topLine="769" />
+		<Cursor position="187002" topLine="5133" />
 	</File>
 	<File name="..\World Server\worldserver.cpp" open="0" top="0" tabpos="1">
 		<Cursor position="2565" topLine="44" />
